@@ -1,8 +1,19 @@
-#Cabecera H1
-##Cabecera H2
-###Cabecera H3
-####Cabecera H4
-#####Cabecera H5
-######Cabecera H6
+# Cabecera H1
+## Cabecera H2
+### Cabecera H3
+#### Cabecera H4
+##### Cabecera H5
+###### Cabecera H6
 
-Soy un ReadMe
+Underline 1
+-------------
+
+Underline 2
+=============
+
+- Formato *Italica* de la primer forma.
+- Formato _Italica_ de la segunda forma.
+- Formato **bold o strong** de la primer forma.
+- Formato __bold o strong__ de la segunda forma.
+- Formato ~~tachado~~, formato normal.
+- Aqui podemos utilizar *formato italica*, pero tambien **bold**  y ~~tachado~~.
